@@ -1,4 +1,4 @@
-setuptools==20.5
+setuptools==67.6.1
 numpy==2.1.2
 pandas==1.1.2
 matplotlib==3.3.1
